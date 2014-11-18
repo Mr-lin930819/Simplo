@@ -26,7 +26,7 @@ qtcAddDeployment()
 #    android-sources/AndroidManifest.xml \
 #    android-sources/src/org/qtproject/example/NotifyTest/NotificationClient.java
 
-#HEADERS += #\#    璋冪敤鏈湴Android java API瀹炵幇閫氱煡鏍?
+#HEADERS += #\#    调用本地Android java API实现通知�?
     #notificationclient.h
 
 RESOURCES += \
