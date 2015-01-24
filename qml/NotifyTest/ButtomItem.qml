@@ -9,9 +9,9 @@ import QtQuick 2.0
   @buttonRadius 按键弧度半径
   @buttonBack   按键背景图片
   @iconRes      按键图标资源
-  **信号:
+  *--信号:
   @buttonclicked()  按键点击事件
-  **/
+  --*/
 Rectangle{
 
     id:root
